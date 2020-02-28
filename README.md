@@ -12,22 +12,22 @@
 
 # Algumas imagens do projeto finalizado
 
-![capa](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/capa.png)
+![capa](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/capa.png)
 
-![seção 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/secao1.png)
+![seção 1](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/secao1.png)
 
-![seção 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/secao2.png)
+![seção 2](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/secao2.png)
 
-![rodapé](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/rodape.png)
+![rodapé](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/rodape.png)
 
 # Responsividade
 
-![capa 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/capa1.png)
+![capa 1](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/capa1.png)
 
-![capa 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/capa2.png)
+![capa 2](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/capa2.png)
 
-![conteúdo 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/conteudo1.png)
+![conteúdo 1](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/conteudo1.png)
 
-![conteúdo 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/conteudo2.png)
+![conteúdo 2](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/conteudo2.png)
 
-![rodapé 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Clone%20Spotify/Screenshot/rodape2.png)
+![rodapé 2](https://github.com/LucasSilvaMarts/Clone-do-Spotify/blob/master/Screenshot/rodape2.png)
